@@ -1,12 +1,10 @@
-// Place all the styles related to the Aboutme controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
-
 .aboutme {
 	margin: auto;
 	width: 60%;
 	background-color: #FFFFFF;
 	display: hidden;
+	border: 2px solid #000000;
+	padding: 1em;
 	article {
 		color: red;
 		text-align: center;
